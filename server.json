@@ -1,0 +1,292 @@
+{
+  "tags": [
+    {
+      "title": "React Native",
+      "amountOfVideos": 10
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "React.js",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 12
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 16
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Linux",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "RESTful API",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Shell Scripting",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Vue.js 3",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 11
+    },
+    {
+      "title": "Elixir",
+      "amountOfVideos": 9
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 8
+    },
+    {
+      "title": "Arduino",
+      "amountOfVideos": 7
+    },
+    {
+      "title": "Raspberry Pi",
+      "amountOfVideos": 6
+    },
+    {
+      "title": "Unity",
+      "amountOfVideos": 5
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Android Development",
+      "amountOfVideos": 3
+    },
+    {
+      "title": "iOS Development",
+      "amountOfVideos": 2
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": 1
+    },
+    {
+      "title": "Cybersecurity",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Blockchain",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Virtual Reality",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Augmented Reality",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ethical Hacking",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Internet of Things",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Big Data",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Cloud Computing",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "DevOps",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Natural Language Processing",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Computer Vision",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Quantum Computing",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "React VR",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "Vue VR",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "ARKit",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "ARCore",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": 61
+    },
+    {
+      "title": "Mobile Development",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Backend Development",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Frontend Development",
+      "amountOfVideos": 64
+    }
+  ]
+}
