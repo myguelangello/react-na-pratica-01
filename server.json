@@ -2,291 +2,363 @@
   "tags": [
     {
       "title": "React Native",
-      "amountOfVideos": 10
+      "amountOfVideos": 10,
+      "slug": "old"
     },
     {
-      "title": "Python",
-      "amountOfVideos": 25
+      "title": "Redis",
+      "amountOfVideos": 25,
+      "slug": "old"
     },
     {
       "title": "MongoDB",
-      "amountOfVideos": 50
+      "amountOfVideos": 50,
+      "slug": "old"
     },
     {
       "title": "JavaScript",
-      "amountOfVideos": 30
+      "amountOfVideos": 30,
+      "slug": "old"
     },
     {
       "title": "Data Science",
-      "amountOfVideos": 45
+      "amountOfVideos": 45,
+      "slug": "old"
     },
     {
       "title": "Node.js",
-      "amountOfVideos": 20
+      "amountOfVideos": 20,
+      "slug": "old"
     },
     {
       "title": "Java",
-      "amountOfVideos": 40
+      "amountOfVideos": 40,
+      "slug": "old"
     },
     {
       "title": "React.js",
-      "amountOfVideos": 15
+      "amountOfVideos": 15,
+      "slug": "old"
     },
     {
       "title": "HTML",
-      "amountOfVideos": 35
+      "amountOfVideos": 35,
+      "slug": "old"
     },
     {
       "title": "CSS",
-      "amountOfVideos": 22
+      "amountOfVideos": 22,
+      "slug": "old"
     },
     {
       "title": "SQL",
-      "amountOfVideos": 28
+      "amountOfVideos": 28,
+      "slug": "old"
     },
     {
       "title": "Django",
-      "amountOfVideos": 18
+      "amountOfVideos": 18,
+      "slug": "old"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 12
+      "amountOfVideos": 12,
+      "slug": "old"
     },
     {
       "title": "TensorFlow",
-      "amountOfVideos": 38
+      "amountOfVideos": 38,
+      "slug": "old"
     },
     {
       "title": "C++",
-      "amountOfVideos": 27
+      "amountOfVideos": 27,
+      "slug": "old"
     },
     {
       "title": "Ruby on Rails",
-      "amountOfVideos": 32
+      "amountOfVideos": 32,
+      "slug": "old"
     },
     {
       "title": "PHP",
-      "amountOfVideos": 23
+      "amountOfVideos": 23,
+      "slug": "old"
     },
     {
       "title": "Swift",
-      "amountOfVideos": 17
+      "amountOfVideos": 17,
+      "slug": "old"
     },
     {
       "title": "Go",
-      "amountOfVideos": 36
+      "amountOfVideos": 36,
+      "slug": "old"
     },
     {
       "title": "Kotlin",
-      "amountOfVideos": 19
+      "amountOfVideos": 19,
+      "slug": "old"
     },
     {
       "title": "AWS",
-      "amountOfVideos": 42
+      "amountOfVideos": 42,
+      "slug": "old"
     },
     {
       "title": "Azure",
-      "amountOfVideos": 33
+      "amountOfVideos": 33,
+      "slug": "old"
     },
     {
       "title": "Firebase",
-      "amountOfVideos": 24
+      "amountOfVideos": 24,
+      "slug": "old"
     },
     {
       "title": "MongoDB",
-      "amountOfVideos": 29
+      "amountOfVideos": 29,
+      "slug": "old"
     },
     {
       "title": "PostgreSQL",
-      "amountOfVideos": 21
+      "amountOfVideos": 21,
+      "slug": "old"
     },
     {
       "title": "GraphQL",
-      "amountOfVideos": 14
+      "amountOfVideos": 14,
+      "slug": "old"
     },
     {
       "title": "Redux",
-      "amountOfVideos": 26
+      "amountOfVideos": 26,
+      "slug": "old"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 37
+      "amountOfVideos": 37,
+      "slug": "old"
     },
     {
       "title": "Express.js",
-      "amountOfVideos": 16
+      "amountOfVideos": 16,
+      "slug": "old"
     },
     {
       "title": "Bootstrap",
-      "amountOfVideos": 31
+      "amountOfVideos": 31,
+      "slug": "old"
     },
     {
       "title": "Flask",
-      "amountOfVideos": 34
+      "amountOfVideos": 34,
+      "slug": "old"
     },
     {
       "title": "Spring Boot",
-      "amountOfVideos": 48
+      "amountOfVideos": 48,
+      "slug": "old"
     },
     {
       "title": "ASP.NET",
-      "amountOfVideos": 41
+      "amountOfVideos": 41,
+      "slug": "old"
     },
     {
       "title": "Ruby",
-      "amountOfVideos": 39
+      "amountOfVideos": 39,
+      "slug": "old"
     },
     {
       "title": "Linux",
-      "amountOfVideos": 44
+      "amountOfVideos": 44,
+      "slug": "old"
     },
     {
       "title": "Docker",
-      "amountOfVideos": 46
+      "amountOfVideos": 46,
+      "slug": "old"
     },
     {
       "title": "RESTful API",
-      "amountOfVideos": 47
+      "amountOfVideos": 47,
+      "slug": "old"
     },
     {
       "title": "Shell Scripting",
-      "amountOfVideos": 49
+      "amountOfVideos": 49,
+      "slug": "old"
     },
     {
       "title": "Rust",
-      "amountOfVideos": 43
+      "amountOfVideos": 43,
+      "slug": "old"
     },
     {
       "title": "Vue.js 3",
-      "amountOfVideos": 13
+      "amountOfVideos": 13,
+      "slug": "old"
     },
     {
       "title": "TypeScript",
-      "amountOfVideos": 11
+      "amountOfVideos": 11,
+      "slug": "old"
     },
     {
       "title": "Elixir",
-      "amountOfVideos": 9
+      "amountOfVideos": 9,
+      "slug": "old"
     },
     {
       "title": "Scala",
-      "amountOfVideos": 8
+      "amountOfVideos": 8,
+      "slug": "old"
     },
     {
       "title": "Arduino",
-      "amountOfVideos": 7
+      "amountOfVideos": 7,
+      "slug": "old"
     },
     {
       "title": "Raspberry Pi",
-      "amountOfVideos": 6
+      "amountOfVideos": 6,
+      "slug": "old"
     },
     {
       "title": "Unity",
-      "amountOfVideos": 5
+      "amountOfVideos": 5,
+      "slug": "old"
     },
     {
       "title": "C#",
-      "amountOfVideos": 4
+      "amountOfVideos": 4,
+      "slug": "old"
     },
     {
       "title": "Android Development",
-      "amountOfVideos": 3
+      "amountOfVideos": 3,
+      "slug": "old"
     },
     {
       "title": "iOS Development",
-      "amountOfVideos": 2
+      "amountOfVideos": 2,
+      "slug": "old"
     },
     {
       "title": "Game Development",
-      "amountOfVideos": 1
+      "amountOfVideos": 1,
+      "slug": "old"
     },
     {
       "title": "Cybersecurity",
-      "amountOfVideos": 100
+      "amountOfVideos": 100,
+      "slug": "old"
     },
     {
       "title": "Blockchain",
-      "amountOfVideos": 95
+      "amountOfVideos": 95,
+      "slug": "old"
     },
     {
       "title": "Artificial Intelligence",
-      "amountOfVideos": 90
+      "amountOfVideos": 90,
+      "slug": "old"
     },
     {
       "title": "Virtual Reality",
-      "amountOfVideos": 85
+      "amountOfVideos": 85,
+      "slug": "old"
     },
     {
       "title": "Augmented Reality",
-      "amountOfVideos": 80
+      "amountOfVideos": 80,
+      "slug": "old"
     },
     {
       "title": "Ethical Hacking",
-      "amountOfVideos": 75
+      "amountOfVideos": 75,
+      "slug": "old"
     },
     {
       "title": "Internet of Things",
-      "amountOfVideos": 70
+      "amountOfVideos": 70,
+      "slug": "old"
     },
     {
       "title": "Big Data",
-      "amountOfVideos": 65
+      "amountOfVideos": 65,
+      "slug": "old"
     },
     {
       "title": "Cloud Computing",
-      "amountOfVideos": 60
+      "amountOfVideos": 60,
+      "slug": "old"
     },
     {
       "title": "DevOps",
-      "amountOfVideos": 55
+      "amountOfVideos": 55,
+      "slug": "old"
     },
     {
       "title": "Natural Language Processing",
-      "amountOfVideos": 51
+      "amountOfVideos": 51,
+      "slug": "old"
     },
     {
       "title": "Computer Vision",
-      "amountOfVideos": 52
+      "amountOfVideos": 52,
+      "slug": "old"
     },
     {
       "title": "Quantum Computing",
-      "amountOfVideos": 53
+      "amountOfVideos": 53,
+      "slug": "old"
     },
     {
       "title": "Flutter",
-      "amountOfVideos": 54
+      "amountOfVideos": 54,
+      "slug": "old"
     },
     {
       "title": "React VR",
-      "amountOfVideos": 56
+      "amountOfVideos": 56,
+      "slug": "old"
     },
     {
       "title": "Vue VR",
-      "amountOfVideos": 57
+      "amountOfVideos": 57,
+      "slug": "old"
     },
     {
       "title": "ARKit",
-      "amountOfVideos": 58
+      "amountOfVideos": 58,
+      "slug": "old"
     },
     {
       "title": "ARCore",
-      "amountOfVideos": 59
+      "amountOfVideos": 59,
+      "slug": "old"
     },
     {
       "title": "Web Development",
-      "amountOfVideos": 61
+      "amountOfVideos": 61,
+      "slug": "old"
     },
     {
       "title": "Mobile Development",
-      "amountOfVideos": 62
+      "amountOfVideos": 62,
+      "slug": "old"
     },
     {
       "title": "Backend Development",
-      "amountOfVideos": 63
+      "amountOfVideos": 63,
+      "slug": "old"
     },
     {
       "title": "Frontend Development",
-      "amountOfVideos": 64
+      "amountOfVideos": 64,
+      "slug": "old"
     }
   ]
 }
